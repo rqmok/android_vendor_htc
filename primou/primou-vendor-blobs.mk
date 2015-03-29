@@ -27,8 +27,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/primou/proprietary/bin/logcat2:system/bin/logcat2 \
 	vendor/htc/primou/proprietary/bin/rmt_storage:system/bin/rmt_storage \
 	vendor/htc/primou/proprietary/bin/zcb:system/bin/zcb \
-	vendor/htc/primou/proprietary/bin/snd3254:system/bin/snd3254 \
-	vendor/htc/primou/proprietary/bin/hostapd:system/bin/hostapd
+	vendor/htc/primou/proprietary/bin/snd3254:system/bin/snd3254
 
 PRODUCT_COPY_FILES += \
 	vendor/htc/primou/proprietary/etc/firmware/bcm4330.hcd:system/etc/firmware/bcm4330.hcd \
