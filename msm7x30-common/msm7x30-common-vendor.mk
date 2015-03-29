@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/htc/msm7x30-common/device-vendor-blobs.mk)
+$(call inherit-product, vendor/htc/msm7x30-common/msm7x30-common-vendor-blobs.mk)
