@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/primou/proprietary/lib/libidl.so:system/lib/libidl.so \
 	vendor/htc/primou/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
 	vendor/htc/primou/proprietary/lib/libqdp.so:system/lib/libqdp.so \
-	vendor/htc/primou/proprietary/lib/libril.so:system/lib/libril.so \
 	vendor/htc/primou/proprietary/lib/libqmi.so:system/lib/libqmi.so
 
 # Random Crap..Verify necessity 
