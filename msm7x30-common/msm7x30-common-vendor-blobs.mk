@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/htc/msm7x30-common/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/htc/msm7x30-common/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
+    vendor/htc/msm7x30-common/proprietary/lib/libsurfaceflinger_client.so:system/lib/libsurfaceflinger_client.so \
     vendor/htc/msm7x30-common/proprietary/lib/hw/camera.vendor.msm7x30.so:system/lib/hw/camera.vendor.msm7x30.so
 
 # Audio
