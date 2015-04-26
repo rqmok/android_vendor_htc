@@ -29,11 +29,13 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/primou/proprietary/bin/snd3254:system/bin/snd3254
 
 PRODUCT_COPY_FILES += \
-	vendor/htc/primou/proprietary/vendor/firmware/bcm4330.hcd:system/vendor/firmware/bcm4330.hcd \
-	vendor/htc/primou/proprietary/vendor/firmware/fw_bcm4330_apsta_b1.bin:system/vendor/firmware/fw_bcm4330_apsta_b1.bin \
-	vendor/htc/primou/proprietary/vendor/firmware/fw_bcm4330_apsta_b2.bin:system/vendor/firmware/fw_bcm4330_apsta_b2.bin \
-	vendor/htc/primou/proprietary/vendor/firmware/fw_bcm4330_b2.bin:system/vendor/firmware/fw_bcm4330_b2.bin \
-	vendor/htc/primou/proprietary/vendor/firmware/fw_bcm4330_b1.bin:system/vendor/firmware/fw_bcm4330_b1.bin \
-	vendor/htc/primou/proprietary/vendor/firmware/fw_bcm4330_p2p_b2.bin:system/vendor/firmware/fw_bcm4330_p2p_b2.bin \
-	vendor/htc/primou/proprietary/vendor/firmware/fw_bcm4330_p2p_b1.bin:system/vendor/firmware/fw_bcm4330_p2p_b1.bin
+	vendor/htc/primou/proprietary/etc/firmware/bcm4330.hcd:system/etc/firmware/bcm4330.hcd \
+	vendor/htc/primou/proprietary/etc/firmware/fw_bcm4330_apsta_b1.bin:system/etc/firmware/fw_bcm4330_apsta_b1.bin \
+	vendor/htc/primou/proprietary/etc/firmware/fw_bcm4330_apsta_b2.bin:system/etc/firmware/fw_bcm4330_apsta_b2.bin \
+	vendor/htc/primou/proprietary/etc/firmware/fw_bcm4330_b2.bin:system/etc/firmware/fw_bcm4330_b2.bin \
+	vendor/htc/primou/proprietary/etc/firmware/fw_bcm4330_b1.bin:system/etc/firmware/fw_bcm4330_b1.bin \
+	vendor/htc/primou/proprietary/etc/firmware/fw_bcm4330_p2p_b2.bin:system/etc/firmware/fw_bcm4330_p2p_b2.bin \
+	vendor/htc/primou/proprietary/etc/firmware/fw_bcm4330_p2p_b1.bin:system/etc/firmware/fw_bcm4330_p2p_b1.bin \
+	vendor/htc/primou/proprietary/etc/firmware/calibration:system/etc/calibration
+
 
