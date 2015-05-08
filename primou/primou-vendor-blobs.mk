@@ -7,6 +7,11 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/primou/proprietary/lib/libchromatix_s5k4e5yx_hfr_4x.so:system/lib/libchromatix_s5k4e5yx_hfr_4x.so \
 	vendor/htc/primou/proprietary/lib/libmmcamera_rawchipproc.so:system/lib/libmmcamera_rawchipproc.so
 
+# Audio
+PRODUCT_COPY_FILES += \
+    vendor/htc/primou/proprietary/etc/firmware/default.acdb:system/etc/firmware/default.acdb \
+    vendor/htc/primou/proprietary/etc/firmware/default_org.acdb:system/etc/firmware/default_org.acdb
+
 # Ril
 #PRODUCT_COPY_FILES += \
 #	vendor/htc/primou/proprietary/lib/libdll.so:system/lib/libdll.so \
