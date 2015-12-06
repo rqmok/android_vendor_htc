@@ -1,4 +1,4 @@
-# Copyright (C) 2010 The Android Open Source Project
+# Copyright (C) 2011-2015 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,7 +14,6 @@
 
 # Prebuilt libraries which are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
-    vendor/htc/msm7x30-common/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/htc/msm7x30-common/proprietary/lib/libqc-opt.so:obj/lib/libqc-opt.so
 
 PRODUCT_COPY_FILES += \
@@ -47,7 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
     vendor/htc/msm7x30-common/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
     vendor/htc/msm7x30-common/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
-    vendor/htc/msm7x30-common/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/htc/msm7x30-common/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
     vendor/htc/msm7x30-common/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/msm7x30-common/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
