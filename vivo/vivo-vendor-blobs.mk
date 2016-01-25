@@ -18,6 +18,8 @@ PRODUCT_COPY_FILES += \
 
 # All the blobs necessary for vivo
 PRODUCT_COPY_FILES += \
+    vendor/htc/vivo/proprietary/etc/firmware/default.acdb:/system/etc/firmware/default.acdb \
+    vendor/htc/vivo/proprietary/etc/firmware/default_org.acdb:/system/etc/firmware/default_org.acdb \
     vendor/htc/vivo/proprietary/lib/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/vivo/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
     vendor/htc/vivo/proprietary/lib/libchromatix_s5k3h1gx_default_video.so:/system/lib/libchromatix_s5k3h1gx_default_video.so
