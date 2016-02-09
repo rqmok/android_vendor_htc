@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/htc/msm7x30-common/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/htc/msm7x30-common/proprietary/lib/libCB.so:system/lib/libCB.so \
-    vendor/htc/msm7x30-common/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/htc/msm7x30-common/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
     vendor/htc/msm7x30-common/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
     vendor/htc/msm7x30-common/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
@@ -54,7 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/htc/msm7x30-common/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/htc/msm7x30-common/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
-    vendor/htc/msm7x30-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/htc/msm7x30-common/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/htc/msm7x30-common/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
     vendor/htc/msm7x30-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
